@@ -4,18 +4,33 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "4269771016c57df3b651a593db63967e",
-"index.html": "e288318a15e7967e5b304bfa343df52b",
-"/": "e288318a15e7967e5b304bfa343df52b",
-"main.dart.js": "2f1a9cd8aed5ddaa520ec0e469865a67",
+"index.html": "0038d5e203c48c0c19ee7ffe8b9f2ef8",
+"/": "0038d5e203c48c0c19ee7ffe8b9f2ef8",
+"main.dart.js": "ce37c419111aa912a30f127135f77687",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"manifest.json": "a0f1ba68a8bb9ed9edf924be0903322b",
+"manifest.json": "aa7a3378a056577906cbf49f08840104",
+"assets/images/logos.png": "bb254e1ac0452f9df3969ee1cb68c9d3",
+"assets/images/programmer-3.gif": "5083e0a2a7dcaae07c142e8b87036a27",
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
-"assets/NOTICES": "f82c373b55fffa2f674a92d36a2c6519",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"assets/NOTICES": "bebd73623b9e0e16884f256d796e4af2",
+"assets/favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"assets/FontManifest.json": "9d49e88cde2554e286f2bb7b60c152d5",
+"assets/icons/ic_google.png": "8d61a1ae36dbd9d82305eab43cdb07fa",
+"assets/icons/ic_linkedIn.png": "5b5479e865a403692971bdf905e09998",
+"assets/icons/ic_dribbble.png": "ab2d08e303c4d0ee5467e4c272fdfd8b",
+"assets/icons/ic_evernote.png": "19de46a5b8348420d099e78fde665955",
+"assets/icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
+"assets/icons/ic_twitter.png": "83651994320dc0d3c7ad896ad058bb53",
+"assets/icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac"
+"assets/fonts/Nexa-Bold.otf": "c9f309b3d47969ecac64a77a6c672594",
+"assets/fonts/MaterialIcons-Regular.ttf": "a37b0c01c0baf1888ca812cc0508f6e2",
+"assets/fonts/Nexa-Light.otf": "12108809f49c49bcdc126dcecc938761",
+"assets/fonts/Product-Sans-Regular.ttf": "eae9c18cee82a8a1a52e654911f8fe83",
+"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
+"assets/fonts/Quicksand-Regular.otf": "3ce1580b66db6742cecd4b41519fb5f1"
 };
 
 // The application shell files that are downloaded before a service worker can
